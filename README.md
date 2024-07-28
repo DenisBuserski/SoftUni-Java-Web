@@ -1,2 +1,9 @@
 # SoftUni Java Web
-[Course link](https://softuni.bg/modules/120/java-web/1343)
+
+
+## Learning materials
+
+### SoftUni course
+- [Java Web - май 2022](https://softuni.bg/modules/120/java-web/1343) <br>
+
+### Videos
