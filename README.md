@@ -9,6 +9,8 @@
 ### Videos
 
 #### Spring
+- [Spring Boot Tutorial | Full Course [2023] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=4)
+- [Spring Boot Roadmap - How To Master Spring Boot](https://www.youtube.com/watch?v=cehTm_oSrqA&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=3)
 
 #### MongoDB
 - [Which Is Better? SQL vs NoSQL](https://www.youtube.com/watch?v=t0GlGbtMTio&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=2&t=3s)
@@ -24,4 +26,5 @@
 - [Liquibase for the Really Impatient](https://www.youtube.com/watch?v=WXsQbeBYRN0&list=PLN_xGGp_EzEKD3ZqrxckWcxJV3tg5oNiA&index=5)
 
 #### Others
-- []()
+- [You DON'T Need Lombok](https://www.youtube.com/watch?v=ldw5TwoPlXI&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=3)
+- [Spring boot & WebSockets: Build a Real-Time Chat App From Scratch](https://www.youtube.com/watch?v=TywlS9iAZCM&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=3)
