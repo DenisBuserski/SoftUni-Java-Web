@@ -2,6 +2,12 @@
 
 ![spring-logo](spring.png)
 
+Main components:
+- `Spring Boot Starters`
+- `Spring Boot Auto-Configuration`
+- `Spring Boot Actuator`
+- `Spring Data`
+
 ## Projects
 
 
