@@ -1,5 +1,7 @@
 # SoftUni Java Web
 
+![spring-logo](spring.png)
+
 
 ## Learning materials
 
