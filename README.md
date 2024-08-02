@@ -10,6 +10,9 @@ Main components:
 
 ## Projects
 
+[SoftUni Java Web - Mobilebg](https://github.com/DenisBuserski/sjw-mobilebg) <br>
+[SoftUni Java Web - Supermarket]() <br>
+
 
 ## Learning materials
 
