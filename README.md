@@ -1,5 +1,4 @@
 # SoftUni Java Web
-
 ![spring-logo](spring.png)
 
 Main components:
@@ -9,9 +8,25 @@ Main components:
 - `Spring Data`
 
 ## Projects
-
 [SoftUni Java Web - Mobilebg](https://github.com/DenisBuserski/sjw-mobilebg) <br>
 [SoftUni Java Web - Supermarket]() <br>
+
+
+## Notes
+`Spring bean` - An instance of a class managed by the Spring container. <br>
+
+### Spring Annotations
+`@Bean` - Applies on Method level. <br>
+`@Component` - Applies on Class level.
+- `@Controller` - 
+- `@RestController` - 
+- `@Service` - 
+- `@Repository` - <br>
+
+`@SpringBootApplication` - 
+- `SpringBootConfiguration` - 
+- `SpringAutoConfiguration` - 
+- `ComponentScan` - 
 
 
 ## Learning materials
@@ -22,11 +37,21 @@ Main components:
 ### Videos
 
 #### Spring
-- [Spring Boot Tutorial | Full Course [2023] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=4)
-- [Spring Boot Roadmap - How To Master Spring Boot](https://www.youtube.com/watch?v=cehTm_oSrqA&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=3)
+- [What Is Spring?](https://www.youtube.com/watch?v=Spzug_SjJnM)
+- [What is Spring Framework?](https://www.youtube.com/watch?v=Zxwq3aW9ctU&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=4)
+- [What is the Spring framework really all about?](https://www.youtube.com/watch?v=gq4S-ovWVlM&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=3)
+- [What is Spring-Boot Framework? (explained from scratch)](https://www.youtube.com/watch?v=LSEYdU8Dp9Y&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=3)
 - [Spring Framework Tutorial | Full Course](https://www.youtube.com/watch?v=If1Lw4pLLEo&list=WL)
+- [Spring ultimate basics: What are Spring Beans and what is the Spring Container?](https://www.youtube.com/watch?v=aS9SQITRocc)
+- [Spring Beans Showdown: Unraveling the Mystery of @Component vs @Bean!](https://www.youtube.com/watch?v=CWEQ-1vff1o&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=9)
+- [Difference between @component & @bean annotations in Spring boot | Interview Question](https://www.youtube.com/watch?v=iE5oQ-FKiJA&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=9)
+- [@Component vs @Bean Annotations](https://www.youtube.com/watch?v=iCaNXPi4tKw&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=10)
+- []()
+- [Spring Boot Roadmap - How To Master Spring Boot](https://www.youtube.com/watch?v=cehTm_oSrqA&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=3)
+- [Spring Boot Tutorial | Full Course [2023] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=4)
 - [How to load initial database data in Spring Boot](https://www.youtube.com/watch?v=VFaed0-Eww8&t=29s)
 - [Java Spring Boot - JPA - Hibernate - H2 - Database Initialization using data.sql and schema.sql](https://www.youtube.com/watch?v=9Yj2TCvrvaE&t=197s)
+- [Spring Boot Validation](https://www.youtube.com/watch?v=LItERTUC9y4)
 
 #### Spring data
 - [JDBC vs JPA: Pros and Cons](https://www.youtube.com/watch?v=XuLUnTlAWmw)
