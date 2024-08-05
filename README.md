@@ -46,7 +46,9 @@ Main components:
 - [Spring Beans Showdown: Unraveling the Mystery of @Component vs @Bean!](https://www.youtube.com/watch?v=CWEQ-1vff1o&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=9)
 - [Difference between @component & @bean annotations in Spring boot | Interview Question](https://www.youtube.com/watch?v=iE5oQ-FKiJA&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=9)
 - [@Component vs @Bean Annotations](https://www.youtube.com/watch?v=iCaNXPi4tKw&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=10)
+- [Difference between @Component vs @Bean in Spring Boot | Interview Questions ‪@JavaExpress‬](https://www.youtube.com/watch?v=QNP3fS6PJZY&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=11)
 - []()
+- 
 - [Spring Boot Roadmap - How To Master Spring Boot](https://www.youtube.com/watch?v=cehTm_oSrqA&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=3)
 - [Spring Boot Tutorial | Full Course [2023] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=4)
 - [How to load initial database data in Spring Boot](https://www.youtube.com/watch?v=VFaed0-Eww8&t=29s)
