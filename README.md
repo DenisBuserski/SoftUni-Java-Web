@@ -47,7 +47,9 @@ Main components:
 - [Difference between @component & @bean annotations in Spring boot | Interview Question](https://www.youtube.com/watch?v=iE5oQ-FKiJA&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=9)
 - [@Component vs @Bean Annotations](https://www.youtube.com/watch?v=iCaNXPi4tKw&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=10)
 - [Difference between @Component vs @Bean in Spring Boot | Interview Questions ‪@JavaExpress‬](https://www.youtube.com/watch?v=QNP3fS6PJZY&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=11)
-- []()
+- [Difference between @component & @bean annotations in Spring boot | Interview Question | Code Decode](https://www.youtube.com/watch?v=6X_Xx0CyCqE&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=9)
+- [Difference between @Bean and @Component annotation in Spring | @Component vs @ Bean Annotations](https://www.youtube.com/watch?v=sHpaT8O_-Ls&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=10&t=5s)
+- [Java Bean vs POJO vs Spring Bean | Are you confused too ?](https://www.youtube.com/watch?v=lQ3svlKjs70&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=11&t=313s)
 - 
 - [Spring Boot Roadmap - How To Master Spring Boot](https://www.youtube.com/watch?v=cehTm_oSrqA&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=3)
 - [Spring Boot Tutorial | Full Course [2023] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=4)
