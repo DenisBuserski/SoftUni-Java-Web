@@ -24,9 +24,13 @@ Main components:
 - `@Repository` - <br>
 
 `@SpringBootApplication` - 
-- `SpringBootConfiguration` - 
-- `SpringAutoConfiguration` - 
-- `ComponentScan` - 
+- `Configuration` -
+- `ComponentScan` - Detect and register Spring-managed components(`@Component`, `@Repository`, `@Controller`, `@Service`, `@Configuration`, `@RestController`)
+with application context. `@ComponentScan` without arguments tells Spring to scan the current package and all of its sub-packages.
+- `EnableAutoConfiguration` -
+
+
+
 
 
 ## Learning materials
@@ -52,6 +56,7 @@ Main components:
 - [Java Bean vs POJO vs Spring Bean | Are you confused too ?](https://www.youtube.com/watch?v=lQ3svlKjs70&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=11&t=313s)
 - 
 - [Spring Boot Roadmap - How To Master Spring Boot](https://www.youtube.com/watch?v=cehTm_oSrqA&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=3)
+- [How Spring Boot works internally.](https://www.youtube.com/watch?v=2K9ZtPL5r6A)
 - [Spring Boot Tutorial | Full Course [2023] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=4)
 - [How to load initial database data in Spring Boot](https://www.youtube.com/watch?v=VFaed0-Eww8&t=29s)
 - [Java Spring Boot - JPA - Hibernate - H2 - Database Initialization using data.sql and schema.sql](https://www.youtube.com/watch?v=9Yj2TCvrvaE&t=197s)
