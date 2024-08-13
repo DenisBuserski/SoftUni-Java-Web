@@ -60,9 +60,8 @@ with application context. `@ComponentScan` without arguments tells Spring to sca
 - [Spring Boot Tutorial | Full Course [2023] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=4)
 - [How to load initial database data in Spring Boot](https://www.youtube.com/watch?v=VFaed0-Eww8&t=29s)
 - [Java Spring Boot - JPA - Hibernate - H2 - Database Initialization using data.sql and schema.sql](https://www.youtube.com/watch?v=9Yj2TCvrvaE&t=197s)
+- [Spring Boot Tutorial 28 - Using data sql to Initialize the Database](https://www.youtube.com/watch?v=VHIHPIwIsg8&t=196s)
 - [Spring Boot Validation](https://www.youtube.com/watch?v=LItERTUC9y4)
-
-#### Spring data
 - [JDBC vs JPA: Pros and Cons](https://www.youtube.com/watch?v=XuLUnTlAWmw)
 
 #### MongoDB
