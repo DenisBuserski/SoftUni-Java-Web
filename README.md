@@ -13,10 +13,15 @@ Main components:
 
 
 ## Notes
+`Spring IoC container` - Responsible for managing all the beans?
 `Spring bean` - An instance of a class managed by the Spring container. <br>
 
 ### Spring Annotations
 `@Bean` - Applies on Method level. <br>
+`@Autowired` - 
+- `@Qualifier` - <br>
+- `@Primary` - <br>
+
 `@Component` - Applies on Class level.
 - `@Controller` - 
 - `@RestController` - 
