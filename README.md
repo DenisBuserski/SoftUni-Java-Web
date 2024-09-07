@@ -8,6 +8,7 @@ Main components:
 - `Spring Data`
 
 ## Projects
+[Online Dog Store - Puppies Passion](https://github.com/DenisBuserski/db-puppies-passion) <br>
 [SoftUni Java Web - Mobilebg](https://github.com/DenisBuserski/sjw-mobilebg) <br>
 [SoftUni Java Web - Supermarket](https://github.com/DenisBuserski/sjw-supermarket) <br>
 
