@@ -69,6 +69,7 @@ with application context. `@ComponentScan` without arguments tells Spring to sca
 - [Spring Boot Tutorial 28 - Using data sql to Initialize the Database](https://www.youtube.com/watch?v=VHIHPIwIsg8&t=196s)
 - [Spring Boot Validation](https://www.youtube.com/watch?v=LItERTUC9y4)
 - [JDBC vs JPA: Pros and Cons](https://www.youtube.com/watch?v=XuLUnTlAWmw)
+- [JAVA DTO Pattern Tutorial | Simplify Your Code](https://www.youtube.com/watch?v=5yquJa2x3Ko&list=PLN_xGGp_EzELR4R8-O6Bcub4Qss9yT1Cj&index=13&t=679s)
 
 #### MongoDB
 - [Which Is Better? SQL vs NoSQL](https://www.youtube.com/watch?v=t0GlGbtMTio&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=2&t=3s)
