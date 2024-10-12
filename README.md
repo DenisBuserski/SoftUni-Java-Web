@@ -13,8 +13,9 @@ Main components:
 [SoftUni Java Web - Pathfinder](https://github.com/DenisBuserski/sjw-pathfinder) <br>
 [SoftUni Java Web - Supermarket](https://github.com/DenisBuserski/sjw-supermarket) <br>
 
+<details> 
+<summary><h3>Notes</h3></summary>
 
-## Notes
 `Spring IoC container` - Responsible for managing all the beans?
 `Spring bean` - An instance of a class managed by the Spring container. <br>
 
@@ -36,7 +37,7 @@ Main components:
 with application context. `@ComponentScan` without arguments tells Spring to scan the current package and all of its sub-packages.
 - `EnableAutoConfiguration` -
 
-
+</details> 
 
 
 
@@ -45,7 +46,10 @@ with application context. `@ComponentScan` without arguments tells Spring to sca
 ### SoftUni course
 [Java Web - май 2022](https://softuni.bg/modules/120/java-web/1343) <br>
 
-### Videos
+
+
+<details> 
+<summary><h3>Videos</h3></summary>
 
 #### Spring
 - [What Is Spring?](https://www.youtube.com/watch?v=Spzug_SjJnM)
@@ -88,3 +92,5 @@ with application context. `@ComponentScan` without arguments tells Spring to sca
 #### Others
 - [You DON'T Need Lombok](https://www.youtube.com/watch?v=ldw5TwoPlXI&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=3)
 - [Spring boot & WebSockets: Build a Real-Time Chat App From Scratch](https://www.youtube.com/watch?v=TywlS9iAZCM&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=3)
+
+</details>
