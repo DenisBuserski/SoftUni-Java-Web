@@ -31,11 +31,27 @@ Main components:
 - `@Service` - 
 - `@Repository` - <br>
 
-`@SpringBootApplication` - 
-- `Configuration` -
-- `ComponentScan` - Detect and register Spring-managed components(`@Component`, `@Repository`, `@Controller`, `@Service`, `@Configuration`, `@RestController`)
-with application context. `@ComponentScan` without arguments tells Spring to scan the current package and all of its sub-packages.
+- `@SpringBootApplication` - Combines `@Configuration`, `@EnableAutoConfiguration` and `@ComponentScan`
+- `@Configuration` -
 - `EnableAutoConfiguration` -
+- `@ComponentScan` - Detect and register Spring-managed components(`@Component`, `@Repository`, `@Controller`, `@Service`, `@Configuration`, `@RestController`)
+with application context. `@ComponentScan` without arguments tells Spring to scan the current package and all of its sub-packages.
+
+@ResponseBody
+@PathVariable
+@RequestParam
+@CrossOrigin
+@Value
+@ConfigurationProperties
+@PropertySource
+@Profile
+@Conditional
+@Schedules
+@SpringBootTest
+@DataJpaTest
+@WebMvsTest
+@JsonTest
+@WebFluxTest
 
 </details> 
 
