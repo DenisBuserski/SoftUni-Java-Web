@@ -14,7 +14,7 @@ Main components:
 [SoftUni Java Web - Supermarket](https://github.com/DenisBuserski/sjw-supermarket) <br>
 
 <details> 
-<summary><h3>Notes</h3></summary>
+<summary><h2>Notes</h2></summary>
 
 `Spring IoC container` - Responsible for managing all the beans?
 `Spring bean` - An instance of a class managed by the Spring container. <br>
@@ -56,16 +56,16 @@ with application context. `@ComponentScan` without arguments tells Spring to sca
 </details> 
 
 
-
-## Learning materials
+<details>
+<summary><h2>Learning materials</h2></summary>
 
 ### SoftUni course
 [Java Web - май 2022](https://softuni.bg/modules/120/java-web/1343) <br>
 
+### Blogs
 
 
-<details> 
-<summary><h3>Videos</h3></summary>
+### Videos 
 
 #### Spring
 - [What Is Spring?](https://www.youtube.com/watch?v=Spzug_SjJnM)
@@ -81,7 +81,6 @@ with application context. `@ComponentScan` without arguments tells Spring to sca
 - [Difference between @component & @bean annotations in Spring boot | Interview Question | Code Decode](https://www.youtube.com/watch?v=6X_Xx0CyCqE&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=9)
 - [Difference between @Bean and @Component annotation in Spring | @Component vs @ Bean Annotations](https://www.youtube.com/watch?v=sHpaT8O_-Ls&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=10&t=5s)
 - [Java Bean vs POJO vs Spring Bean | Are you confused too ?](https://www.youtube.com/watch?v=lQ3svlKjs70&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=11&t=313s)
-- 
 - [Spring Boot Roadmap - How To Master Spring Boot](https://www.youtube.com/watch?v=cehTm_oSrqA&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=3)
 - [How Spring Boot works internally.](https://www.youtube.com/watch?v=2K9ZtPL5r6A)
 - [Spring Boot Tutorial | Full Course [2023] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=4)
@@ -91,13 +90,12 @@ with application context. `@ComponentScan` without arguments tells Spring to sca
 - [Spring Boot Validation](https://www.youtube.com/watch?v=LItERTUC9y4)
 - [JDBC vs JPA: Pros and Cons](https://www.youtube.com/watch?v=XuLUnTlAWmw)
 - [JAVA DTO Pattern Tutorial | Simplify Your Code](https://www.youtube.com/watch?v=5yquJa2x3Ko&list=PLN_xGGp_EzELR4R8-O6Bcub4Qss9yT1Cj&index=13&t=679s)
+- [Demystifying Spring Session: A Comprehensive Introduction for Java Developers!](https://www.youtube.com/watch?v=k62bO-W6Sb0)
 
 #### Session & Cookies
 - [What cookies are and how they work!](https://www.youtube.com/watch?v=s04Vjlcgwco)
 - [Session vs Token Authentication in 100 Seconds](https://www.youtube.com/watch?v=UBUNrFtufWo)
 - [Difference between cookies, session and tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg&t=326s)
-
-
 
 #### MongoDB
 - [Which Is Better? SQL vs NoSQL](https://www.youtube.com/watch?v=t0GlGbtMTio&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=2&t=3s)
