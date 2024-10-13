@@ -95,6 +95,7 @@ with application context. `@ComponentScan` without arguments tells Spring to sca
 #### Session & Cookies
 - [What cookies are and how they work!](https://www.youtube.com/watch?v=s04Vjlcgwco)
 - [Session vs Token Authentication in 100 Seconds](https://www.youtube.com/watch?v=UBUNrFtufWo)
+- [Difference between cookies, session and tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg&t=326s)
 
 
 
