@@ -92,6 +92,12 @@ with application context. `@ComponentScan` without arguments tells Spring to sca
 - [JDBC vs JPA: Pros and Cons](https://www.youtube.com/watch?v=XuLUnTlAWmw)
 - [JAVA DTO Pattern Tutorial | Simplify Your Code](https://www.youtube.com/watch?v=5yquJa2x3Ko&list=PLN_xGGp_EzELR4R8-O6Bcub4Qss9yT1Cj&index=13&t=679s)
 
+#### Session & Cookies
+- [What cookies are and how they work!](https://www.youtube.com/watch?v=s04Vjlcgwco)
+- [Session vs Token Authentication in 100 Seconds](https://www.youtube.com/watch?v=UBUNrFtufWo)
+
+
+
 #### MongoDB
 - [Which Is Better? SQL vs NoSQL](https://www.youtube.com/watch?v=t0GlGbtMTio&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=2&t=3s)
 - [MongoDB in 100 Seconds](https://www.youtube.com/watch?v=-bt_y4Loofg&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=4)
