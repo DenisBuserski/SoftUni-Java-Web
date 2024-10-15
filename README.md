@@ -63,6 +63,8 @@ with application context. `@ComponentScan` without arguments tells Spring to sca
 [Java Web - май 2022](https://softuni.bg/modules/120/java-web/1343) <br>
 
 ### Blogs
+- [Spring Boot Folder Structure (Best Practices)](https://malshani-wijekoon.medium.com/spring-boot-folder-structure-best-practices-18ef78a81819)
+- [Setup Spring Boot 5.x.x Application Using Java 11.0](https://malshani-wijekoon.medium.com/setup-spring-boot-5-x-x-application-using-java-11-0-bb1ebc836996)
 
 
 ### Videos 
