@@ -99,6 +99,7 @@ with application context. `@ComponentScan` without arguments tells Spring to sca
 - [Session vs Token Authentication in 100 Seconds](https://www.youtube.com/watch?v=UBUNrFtufWo)
 - [Difference between cookies, session and tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg&t=326s)
 - [#10 Servlet and JSP Tutorial | HttpSession | Cookie](https://www.youtube.com/watch?v=5tLGwdyPGRY)
+- [What You Need to Know About HTTP Protocol [Dev Concepts #39]](https://www.youtube.com/watch?v=TR_PjHKlXnE&list=WL&index=56)
 
 #### MongoDB
 - [Which Is Better? SQL vs NoSQL](https://www.youtube.com/watch?v=t0GlGbtMTio&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=2&t=3s)
