@@ -20,6 +20,13 @@ Main components:
 `Spring bean` - An instance of a class managed by the Spring container. <br>
 
 ### Spring Annotations
+- `@SpringBootApplication` - Combines `@Configuration`, `@EnableAutoConfiguration` and `@ComponentScan`.
+  - `@EnableAutoConfiguration` - Automatically configures the Spring application based on the classpath and other beans.
+  - `@SpringBootConfiguration`/`@Configuration` - Indicates that a class provides Spring Boot-specific configurations.
+  - `@ComponentScan` - Detect and register Spring-managed components(`@Component`, `@Repository`, `@Controller`, `@Service`, `@Configuration`, `@RestController`)
+  with application context. `@ComponentScan` without arguments tells Spring to scan the current package and all of its sub-packages.
+      
+
 `@Bean` - Applies on Method level. <br>
 `@Autowired` - 
 - `@Qualifier` - <br>
@@ -27,15 +34,12 @@ Main components:
 
 `@Component` - Applies on Class level.
 - `@Controller` - 
-- `@RestController` - 
+- `@RestController` - Combining `@Controller` and `@ResponseBody`
 - `@Service` - 
 - `@Repository` - <br>
 
-- `@SpringBootApplication` - Combines `@Configuration`, `@EnableAutoConfiguration` and `@ComponentScan`
-- `@Configuration` -
-- `EnableAutoConfiguration` -
-- `@ComponentScan` - Detect and register Spring-managed components(`@Component`, `@Repository`, `@Controller`, `@Service`, `@Configuration`, `@RestController`)
-with application context. `@ComponentScan` without arguments tells Spring to scan the current package and all of its sub-packages.
+
+
 
 @ResponseBody
 @PathVariable
