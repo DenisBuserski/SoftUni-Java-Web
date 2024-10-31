@@ -21,41 +21,33 @@ Main components:
 
 ### Spring Annotations
 - `@SpringBootApplication` - Combines `@Configuration`, `@EnableAutoConfiguration` and `@ComponentScan`.
-  - `@EnableAutoConfiguration` - Automatically configures the Spring application based on the classpath and other beans.
+  - `@EnableAutoConfiguration` - Automatically configures the Spring application based on the classpath and other beans. Eliminates the need for manual configuration.
   - `@SpringBootConfiguration`/`@Configuration` - Indicates that a class provides Spring Boot-specific configurations.
-  - `@ComponentScan` - Detect and register Spring-managed components(`@Component`, `@Repository`, `@Controller`, `@Service`, `@Configuration`, `@RestController`)
-  with application context. `@ComponentScan` without arguments tells Spring to scan the current package and all of its sub-packages.
-      
+  - `@ComponentScan` - Specifies the packages that Spring should scan for components, configurations, and services. `@ComponentScan` without arguments tells Spring to scan the current package and all of its sub-packages.
 
-`@Bean` - Applies on Method level. <br>
-`@Autowired` - 
-- `@Qualifier` - <br>
-- `@Primary` - <br>
+- `@Bean` - Declares a method that produces a bean managed by the Spring container. Applies on Method level.
+- `@Autowired` - 
+- `@Qualifier` - Specifies which bean to autowire when multiple candidates exist.
+- `@Primary` - Indicates that a bean should be given preference when multiple beans of the same type are available for autowiring.
 
-`@Component` - Applies on Class level.
-- `@Controller` - 
-- `@RestController` - Combining `@Controller` and `@ResponseBody`
-- `@Service` - 
-- `@Repository` - <br>
-
-
-
-
-@ResponseBody
-@PathVariable
-@RequestParam
-@CrossOrigin
-@Value
-@ConfigurationProperties
-@PropertySource
-@Profile
-@Conditional
-@Schedules
-@SpringBootTest
-@DataJpaTest
-@WebMvsTest
-@JsonTest
-@WebFluxTest
+- `@Component` - Generic stereotype for any Spring-managed component. Applies on Class level. 
+  - `@Controller` - Returns views.
+  - `@RestController` - Combining `@Controller` and `@ResponseBody`. Return data directly in the response body.
+  - `@Service` 
+  - `@Repository`
+  
+- `@ResponseBody` - The return type of a method should be written directly to the HTTP response body. Commonly returns JSON or XML data.
+- `@PathVariable`
+- `@RequestParam`
+- `@ConfigurationProperties` - Binds and validates external configurations to a configuration object.
+- `@Conditional` - Includes or excludes parts of the configuration based on certain conditions.
+- `@Schedules` - Marks a method to be run at periodic intervals, allowing for easy scheduling of tasks within your application.
+- `@Value` - Injects values into configuration parameters from property files or environment variables.
+- `@Profile` - Indicates that a component is eligible for registration when certain profiles are active. This is useful for defining environment-specific beans.
+- `@SpringBootTest` - Used for integration testing of Spring Boot applications.
+- `@DataJpaTest` - Used for testing JPA repositories.
+- `@WebMvsTest` - Used for testing Spring MVC controllers.
+- `@CrossOrigin`
 
 </details> 
 
@@ -97,6 +89,7 @@ Main components:
 - [JDBC vs JPA: Pros and Cons](https://www.youtube.com/watch?v=XuLUnTlAWmw)
 - [JAVA DTO Pattern Tutorial | Simplify Your Code](https://www.youtube.com/watch?v=5yquJa2x3Ko&list=PLN_xGGp_EzELR4R8-O6Bcub4Qss9yT1Cj&index=13&t=679s)
 - [Demystifying Spring Session: A Comprehensive Introduction for Java Developers!](https://www.youtube.com/watch?v=k62bO-W6Sb0)
+- [Spring Boot versus Quarkus](https://www.youtube.com/watch?v=mJJpZ70q9M0&list=WL&index=89)
 
 #### Session & Cookies
 - [What cookies are and how they work!](https://www.youtube.com/watch?v=s04Vjlcgwco)
