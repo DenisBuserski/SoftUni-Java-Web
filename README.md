@@ -93,9 +93,12 @@ Main components:
 
 #### Session & Cookies
 - [What cookies are and how they work!](https://www.youtube.com/watch?v=s04Vjlcgwco)
-- [Session vs Token Authentication in 100 Seconds](https://www.youtube.com/watch?v=UBUNrFtufWo)
+- [What Are Cookies? And How They Work | Explained for Beginners!](https://www.youtube.com/watch?v=rdVPflECed8)
+- [🍪 What are cookies and how to get rid of cookie banners?](https://www.youtube.com/watch?v=V0pzXU6FbQA)
 - [Difference between cookies, session and tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg&t=326s)
+- [Cookies vs Sessions Explained: What You Need to Know](https://www.youtube.com/watch?v=K4UKj5htg-E)
 - [#10 Servlet and JSP Tutorial | HttpSession | Cookie](https://www.youtube.com/watch?v=5tLGwdyPGRY)
+- [Session vs Token Authentication in 100 Seconds](https://www.youtube.com/watch?v=UBUNrFtufWo)
 - [What You Need to Know About HTTP Protocol [Dev Concepts #39]](https://www.youtube.com/watch?v=TR_PjHKlXnE&list=WL&index=56)
 
 #### MongoDB
