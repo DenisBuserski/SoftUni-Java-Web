@@ -62,7 +62,6 @@ Main components:
 - [Spring Boot Folder Structure (Best Practices)](https://malshani-wijekoon.medium.com/spring-boot-folder-structure-best-practices-18ef78a81819)
 - [Setup Spring Boot 5.x.x Application Using Java 11.0](https://malshani-wijekoon.medium.com/setup-spring-boot-5-x-x-application-using-java-11-0-bb1ebc836996)
 
-
 ### Videos 
 
 #### Spring
