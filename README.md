@@ -1,20 +1,20 @@
 # SoftUni Java Web
 ![spring-logo](spring.png)
 
-Main components:
-- `Spring Boot Starters`
-- `Spring Boot Auto-Configuration`
-- `Spring Boot Actuator`
-- `Spring Data`
-
 ## Projects
 [Online Dog Store - Puppies Passion](https://github.com/DenisBuserski/db-puppies-passion) <br>
 [SoftUni Java Web - Mobilebg](https://github.com/DenisBuserski/sjw-mobilebg) <br>
 [SoftUni Java Web - Pathfinder](https://github.com/DenisBuserski/sjw-pathfinder) <br>
 [SoftUni Java Web - Supermarket](https://github.com/DenisBuserski/sjw-supermarket) <br>
 
-<details> 
-<summary><h2>Notes</h2></summary>
+<details>
+<summary><h2>Learning materials</h2></summary>
+
+Main components:
+- `Spring Boot Starters`
+- `Spring Boot Auto-Configuration`
+- `Spring Boot Actuator`
+- `Spring Data`
 
 `Spring IoC container` - Responsible for managing all the beans?
 `Spring bean` - An instance of a class managed by the Spring container. <br>
@@ -35,7 +35,9 @@ Main components:
   - `@RestController` - Combining `@Controller` and `@ResponseBody`. Return data directly in the response body.
   - `@Service` 
   - `@Repository`
-  
+ 
+- `@ModelAttribute` 
+- `@CrossOrigin`
 - `@ResponseBody` - The return type of a method should be written directly to the HTTP response body. Commonly returns JSON or XML data.
 - `@PathVariable`
 - `@RequestParam`
@@ -47,13 +49,7 @@ Main components:
 - `@SpringBootTest` - Used for integration testing of Spring Boot applications.
 - `@DataJpaTest` - Used for testing JPA repositories.
 - `@WebMvsTest` - Used for testing Spring MVC controllers.
-- `@CrossOrigin`
 
-</details> 
-
-
-<details>
-<summary><h2>Learning materials</h2></summary>
 
 ### SoftUni course
 [Java Web - май 2022](https://softuni.bg/modules/120/java-web/1343) <br>
@@ -89,6 +85,18 @@ Main components:
 - [JAVA DTO Pattern Tutorial | Simplify Your Code](https://www.youtube.com/watch?v=5yquJa2x3Ko&list=PLN_xGGp_EzELR4R8-O6Bcub4Qss9yT1Cj&index=13&t=679s)
 - [Demystifying Spring Session: A Comprehensive Introduction for Java Developers!](https://www.youtube.com/watch?v=k62bO-W6Sb0)
 - [Spring Boot versus Quarkus](https://www.youtube.com/watch?v=mJJpZ70q9M0&list=WL&index=89)
+- [Spring @ModelAttribute Annotation with Example](https://www.youtube.com/watch?v=IjVt8uiU_rw)
+- [Spring MVC - Model attribute](https://www.youtube.com/watch?v=xL6Oc3hnGnE)
+- [What is @ModelAttribute in spring boot?](https://www.youtube.com/watch?v=6W16OTkfgqI)
+- [15. @ModelAttribute Theory](https://www.youtube.com/watch?v=yud1vfSTyWg)
+- [Spring MVC Tutorials 11 - Understanding @ModelAttribute Annotation 01 (using on a method argument)](https://www.youtube.com/watch?v=stGq8lnEFlM)
+- [Spring MVC Tutorials 12 - Understanding @ModelAttribute annotation 02 ( using at a method level )](https://www.youtube.com/watch?v=8V4ArtwNuwk)
+- [Spring Web MVC || @ModelAttribute Annotation as Method Argument || Part-8](https://www.youtube.com/watch?v=ZV7pkldmUns&t=107s)
+- [CORS in 100 Seconds](https://www.youtube.com/watch?v=4KHiSt0oLJ0)
+- [Learn CORS In 6 Minutes](https://www.youtube.com/watch?v=PNtFSVU-YTI)
+- [#23 CORS Error in Spring Boot](https://www.youtube.com/watch?v=iC1a8cUzGgc)
+- [Spring Boot - Enable Cross Origin Request for a REST API | Enable CORS](https://www.youtube.com/watch?v=X2hjlquVess)
+- [Enable Cross-Origin Resource Sharing in REST | Spring Security | Java Techie](https://www.youtube.com/watch?v=FQrlp8YB7DA)
 
 #### Session & Cookies
 - [What cookies are and how they work!](https://www.youtube.com/watch?v=s04Vjlcgwco)
