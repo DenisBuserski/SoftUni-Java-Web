@@ -105,6 +105,7 @@ Main components:
 - [Difference between cookies, session and tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg&t=326s)
 - [Cookies vs Sessions Explained: What You Need to Know](https://www.youtube.com/watch?v=K4UKj5htg-E)
 - [What are Internet (Website) Cookies & Cache? #3](https://www.youtube.com/watch?v=QYXAxXjaKws)
+- [How exactly the Sessions and Cookies work? || Session Management || Spring MVC || @SessionAttributes](https://www.youtube.com/watch?v=cpFfzE9eGT0)
 - [Web App Pentesting - HTTP Cookies & Sessions](https://www.youtube.com/watch?v=zHBpJA5XfDk&t=1s)
 - [#10 Servlet and JSP Tutorial | HttpSession | Cookie](https://www.youtube.com/watch?v=5tLGwdyPGRY)
 - [Session vs Token Authentication in 100 Seconds](https://www.youtube.com/watch?v=UBUNrFtufWo)
