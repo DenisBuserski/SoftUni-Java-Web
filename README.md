@@ -98,6 +98,7 @@ Main components:
 - [Spring Boot - Enable Cross Origin Request for a REST API | Enable CORS](https://www.youtube.com/watch?v=X2hjlquVess)
 - [Enable Cross-Origin Resource Sharing in REST | Spring Security | Java Techie](https://www.youtube.com/watch?v=FQrlp8YB7DA)
 - [Platform Engineering със Spring Boot](https://www.youtube.com/watch?v=7zKwxzVm_c4&list=WL&index=83)
+- [Java Tutorial - Complete User Login and Registration Backend + Email Verification](https://www.youtube.com/watch?v=QwQuro7ekvc&list=WL&index=15&t=30s)
 
 #### Session & Cookies
 - [What cookies are and how they work!](https://www.youtube.com/watch?v=s04Vjlcgwco)
