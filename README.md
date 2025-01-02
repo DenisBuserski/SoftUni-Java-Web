@@ -101,6 +101,7 @@ Main components:
 - [Platform Engineering със Spring Boot](https://www.youtube.com/watch?v=7zKwxzVm_c4&list=WL&index=83)
 - [Java Tutorial - Complete User Login and Registration Backend + Email Verification](https://www.youtube.com/watch?v=QwQuro7ekvc&list=WL&index=15&t=30s)
 - [Изграждане на REST API с Java и Spring (камера)](https://www.youtube.com/watch?v=OW2vbIBsh74&list=WL&index=8)
+- [Въведение в WebSockets в Spring Framework (камера)](https://www.youtube.com/watch?v=dOIvKa34CWk&list=WL&index=2)
 - [Building microservices with Java - Тодор Олев](https://www.youtube.com/watch?v=_LYY7I0VLt4&list=WL&index=1&t=3464s)
 
 #### Session & Cookies
