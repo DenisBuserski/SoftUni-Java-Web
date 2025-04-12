@@ -124,12 +124,6 @@ Main components:
 - [MySql vs MongoDB, What's the Best Database Solution?](https://www.youtube.com/watch?v=0FNHbbuwKP0&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=4)
 - [MongoDB vs MySQL | Difference Between MongoDB And MySQL | MySQL vs MongoDB Performance | Simplilearn](https://www.youtube.com/watch?v=CJy0_iUdr3g&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=5)
 
-#### Liquibase
-- [Why Liquibase](https://www.youtube.com/watch?v=FJ2a-WkuWRA&list=PLN_xGGp_EzEKD3ZqrxckWcxJV3tg5oNiA&index=2)
-- [How Liquibase Works](https://www.youtube.com/watch?v=U9nVo9MS12o&list=PLN_xGGp_EzEKD3ZqrxckWcxJV3tg5oNiA&index=3)
-- [Liquibase with SpringBoot | Step by step tutorial for Beginners - Full course](https://www.youtube.com/watch?v=xjXHecGOy84&list=PLN_xGGp_EzEKD3ZqrxckWcxJV3tg5oNiA&index=4)
-- [Liquibase for the Really Impatient](https://www.youtube.com/watch?v=WXsQbeBYRN0&list=PLN_xGGp_EzEKD3ZqrxckWcxJV3tg5oNiA&index=5)
-
 #### Others
 - [You DON'T Need Lombok](https://www.youtube.com/watch?v=ldw5TwoPlXI&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=3)
 - [Spring boot & WebSockets: Build a Real-Time Chat App From Scratch](https://www.youtube.com/watch?v=TywlS9iAZCM&list=PLN_xGGp_EzEItK8yAKOP9qIetdu7CGxoP&index=3)
